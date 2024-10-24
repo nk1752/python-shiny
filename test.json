@@ -1,0 +1,69 @@
+{
+  "bg_name": "ned",
+  "instances": [
+    {
+      "name": "flex-gateway1-lab-poc",
+      "status": "CONNECTED"
+    },
+    {
+      "name": "fgw-np-z-b-regionsbank-dev",
+      "status": "CONNECTED"
+    },
+    {
+      "name": "fgw-np-b-regionsbank-dev",
+      "status": "CONNECTED"
+    },
+    {
+      "name": "fgw-regionsbank-dev-b-medium-1",
+      "status": "DELETED"
+    },
+    {
+      "name": "fgw-regionsbank-demo-test-small-1",
+      "status": "DELETED"
+    },
+    {
+      "name": "fgw-regionsbank-dev-b-small-4",
+      "status": "DISCONNECTED"
+    },
+    {
+      "name": "fgw-regionsbank-cicd-test-small-1",
+      "status": "DELETED"
+    },
+    {
+      "name": "fgw-regionsbank-dev-b-large-2",
+      "status": "DISCONNECTED"
+    },
+    {
+      "name": "fgw-dev-regionsbank-dev",
+      "status": "CONNECTED"
+    },
+    {
+      "name": "fgw-dev-z-regionsbank-dev",
+      "status": "CONNECTED"
+    },
+    {
+      "name": "fgw-np-z-a-regionsbank-dev",
+      "status": "CONNECTED"
+    },
+    {
+      "name": "fgw-np-a-regionsbank-dev",
+      "status": "CONNECTED"
+    },
+    {
+      "name": "flex-gateway-lab-poc",
+      "status": "CONNECTED"
+    },
+    {
+      "name": "fgw-regionsbank-cicd-test-medium-3",
+      "status": "DELETED"
+    },
+    {
+      "name": "fgw-regionsbank-dev-b-medium-4",
+      "status": "DISCONNECTED"
+    },
+    {
+      "name": "fgw-regionsbank-dev-small-1",
+      "status": "CONNECTED"
+    }
+  ]
+}

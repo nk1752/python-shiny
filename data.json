@@ -1,0 +1,353 @@
+{
+  "content": [
+    {
+      "organizationId": "9cbfeea6-3931-4b24-b763-135be8eff827",
+      "id": "55c6bcde-d562-4705-a9f7-8470d0d917cf",
+      "name": "flex-gateway1-lab-poc",
+      "status": "CONNECTED",
+      "replicas": [
+        {
+          "status": "CONNECTED",
+          "count": 2,
+          "certificateExpirationDates": [
+            "2025-09-25T19:27:37.00Z"
+          ]
+        },
+        {
+          "status": "DISCONNECTED",
+          "count": 0,
+          "certificateExpirationDates": []
+        }
+      ],
+      "tags": [],
+      "lastUpdate": "2024-10-19T00:48:48.99Z"
+    },
+    {
+      "organizationId": "9cbfeea6-3931-4b24-b763-135be8eff827",
+      "id": "0f1309b0-e6cd-4556-9a3e-2d89f4c7f591",
+      "name": "fgw-np-z-b-regionsbank-dev",
+      "status": "CONNECTED",
+      "replicas": [
+        {
+          "status": "CONNECTED",
+          "count": 1,
+          "certificateExpirationDates": [
+            "2026-09-19T20:13:11.00Z"
+          ]
+        },
+        {
+          "status": "DISCONNECTED",
+          "count": 0,
+          "certificateExpirationDates": []
+        }
+      ],
+      "tags": [],
+      "lastUpdate": "2024-10-19T00:20:21.54Z"
+    },
+    {
+      "organizationId": "9cbfeea6-3931-4b24-b763-135be8eff827",
+      "id": "45000da0-de49-42ff-b01c-59b479220469",
+      "name": "fgw-np-b-regionsbank-dev",
+      "status": "CONNECTED",
+      "replicas": [
+        {
+          "status": "CONNECTED",
+          "count": 1,
+          "certificateExpirationDates": [
+            "2025-09-25T19:27:41.00Z"
+          ]
+        },
+        {
+          "status": "DISCONNECTED",
+          "count": 1,
+          "certificateExpirationDates": [
+            "2025-09-25T19:27:41.00Z"
+          ]
+        }
+      ],
+      "tags": [],
+      "lastUpdate": "2024-10-19T00:21:26.75Z"
+    },
+    {
+      "organizationId": "9cbfeea6-3931-4b24-b763-135be8eff827",
+      "id": "46e20ea5-b543-422f-85d0-89aa1953230c",
+      "name": "fgw-regionsbank-dev-b-medium-1",
+      "status": "DELETED",
+      "replicas": [
+        {
+          "status": "CONNECTED",
+          "count": 0,
+          "certificateExpirationDates": []
+        },
+        {
+          "status": "DISCONNECTED",
+          "count": 0,
+          "certificateExpirationDates": []
+        }
+      ],
+      "tags": [],
+      "lastUpdate": "2024-10-16T17:39:49.09Z"
+    },
+    {
+      "organizationId": "9cbfeea6-3931-4b24-b763-135be8eff827",
+      "id": "8c5b6ea3-be14-4801-bdce-c12b8fa9c535",
+      "name": "fgw-regionsbank-demo-test-small-1",
+      "status": "DELETED",
+      "replicas": [
+        {
+          "status": "CONNECTED",
+          "count": 0,
+          "certificateExpirationDates": []
+        },
+        {
+          "status": "DISCONNECTED",
+          "count": 0,
+          "certificateExpirationDates": []
+        }
+      ],
+      "tags": [],
+      "lastUpdate": "2024-10-18T13:56:45.40Z"
+    },
+    {
+      "organizationId": "9cbfeea6-3931-4b24-b763-135be8eff827",
+      "id": "08383b16-b760-43d8-9cc5-f51d91fdeedb",
+      "name": "fgw-regionsbank-dev-b-small-4",
+      "status": "DISCONNECTED",
+      "replicas": [
+        {
+          "status": "CONNECTED",
+          "count": 0,
+          "certificateExpirationDates": []
+        },
+        {
+          "status": "DISCONNECTED",
+          "count": 0,
+          "certificateExpirationDates": []
+        }
+      ],
+      "tags": [],
+      "lastUpdate": "2024-10-13T15:10:00.85Z"
+    },
+    {
+      "organizationId": "9cbfeea6-3931-4b24-b763-135be8eff827",
+      "id": "68f9bf2e-41e4-4e1e-92ad-53dfa23d200d",
+      "name": "fgw-regionsbank-cicd-test-small-1",
+      "status": "DELETED",
+      "replicas": [
+        {
+          "status": "CONNECTED",
+          "count": 0,
+          "certificateExpirationDates": []
+        },
+        {
+          "status": "DISCONNECTED",
+          "count": 0,
+          "certificateExpirationDates": []
+        }
+      ],
+      "tags": [],
+      "lastUpdate": "2024-10-18T13:56:19.54Z"
+    },
+    {
+      "organizationId": "9cbfeea6-3931-4b24-b763-135be8eff827",
+      "id": "02c1f4a9-a415-4d4a-bb8c-950fb83e0460",
+      "name": "fgw-regionsbank-dev-b-large-2",
+      "status": "DISCONNECTED",
+      "replicas": [
+        {
+          "status": "CONNECTED",
+          "count": 0,
+          "certificateExpirationDates": []
+        },
+        {
+          "status": "DISCONNECTED",
+          "count": 0,
+          "certificateExpirationDates": []
+        }
+      ],
+      "tags": [],
+      "lastUpdate": "2024-10-22T13:36:13.24Z"
+    },
+    {
+      "organizationId": "9cbfeea6-3931-4b24-b763-135be8eff827",
+      "id": "f44ed5c7-95a1-4c70-9da9-3049ec33b463",
+      "name": "fgw-dev-regionsbank-dev",
+      "status": "CONNECTED",
+      "replicas": [
+        {
+          "status": "CONNECTED",
+          "count": 1,
+          "certificateExpirationDates": [
+            "2025-09-25T19:27:09.00Z"
+          ]
+        },
+        {
+          "status": "DISCONNECTED",
+          "count": 1,
+          "certificateExpirationDates": [
+            "2025-09-25T19:27:09.00Z"
+          ]
+        }
+      ],
+      "tags": [],
+      "lastUpdate": "2024-10-19T02:55:01.23Z"
+    },
+    {
+      "organizationId": "9cbfeea6-3931-4b24-b763-135be8eff827",
+      "id": "a6021318-fae1-4aa6-b678-64179efb70a9",
+      "name": "fgw-dev-z-regionsbank-dev",
+      "status": "CONNECTED",
+      "replicas": [
+        {
+          "status": "CONNECTED",
+          "count": 1,
+          "certificateExpirationDates": [
+            "2026-09-19T20:14:01.00Z"
+          ]
+        },
+        {
+          "status": "DISCONNECTED",
+          "count": 0,
+          "certificateExpirationDates": []
+        }
+      ],
+      "tags": [],
+      "lastUpdate": "2024-10-19T00:20:20.29Z"
+    },
+    {
+      "organizationId": "9cbfeea6-3931-4b24-b763-135be8eff827",
+      "id": "678a402b-40a6-42a0-a2bc-a5822acb0df6",
+      "name": "fgw-np-z-a-regionsbank-dev",
+      "status": "CONNECTED",
+      "replicas": [
+        {
+          "status": "CONNECTED",
+          "count": 1,
+          "certificateExpirationDates": [
+            "2026-09-19T20:13:51.00Z"
+          ]
+        },
+        {
+          "status": "DISCONNECTED",
+          "count": 0,
+          "certificateExpirationDates": []
+        }
+      ],
+      "tags": [],
+      "lastUpdate": "2024-10-19T00:23:33.78Z"
+    },
+    {
+      "organizationId": "9cbfeea6-3931-4b24-b763-135be8eff827",
+      "id": "29594546-384f-4708-bfc1-36a821faf1dc",
+      "name": "fgw-np-a-regionsbank-dev",
+      "status": "CONNECTED",
+      "replicas": [
+        {
+          "status": "CONNECTED",
+          "count": 1,
+          "certificateExpirationDates": [
+            "2025-09-25T19:27:20.00Z"
+          ]
+        },
+        {
+          "status": "DISCONNECTED",
+          "count": 1,
+          "certificateExpirationDates": [
+            "2025-09-25T19:27:20.00Z"
+          ]
+        }
+      ],
+      "tags": [],
+      "lastUpdate": "2024-10-19T00:23:33.52Z"
+    },
+    {
+      "organizationId": "9cbfeea6-3931-4b24-b763-135be8eff827",
+      "id": "9da192d1-436b-428a-8655-16829d553140",
+      "name": "flex-gateway-lab-poc",
+      "status": "CONNECTED",
+      "replicas": [
+        {
+          "status": "CONNECTED",
+          "count": 1,
+          "certificateExpirationDates": [
+            "2025-09-25T19:27:29.00Z"
+          ]
+        },
+        {
+          "status": "DISCONNECTED",
+          "count": 5,
+          "certificateExpirationDates": [
+            "2025-09-25T19:27:29.00Z"
+          ]
+        }
+      ],
+      "tags": [],
+      "lastUpdate": "2024-10-23T12:11:27.87Z"
+    },
+    {
+      "organizationId": "9cbfeea6-3931-4b24-b763-135be8eff827",
+      "id": "df4f0910-24ff-4dc1-ae67-691a31b2a55c",
+      "name": "fgw-regionsbank-cicd-test-medium-3",
+      "status": "DELETED",
+      "replicas": [
+        {
+          "status": "CONNECTED",
+          "count": 0,
+          "certificateExpirationDates": []
+        },
+        {
+          "status": "DISCONNECTED",
+          "count": 0,
+          "certificateExpirationDates": []
+        }
+      ],
+      "tags": [],
+      "lastUpdate": "2024-10-18T13:56:30.72Z"
+    },
+    {
+      "organizationId": "9cbfeea6-3931-4b24-b763-135be8eff827",
+      "id": "3ea58788-73a5-4cf9-84e2-10393dc5c773",
+      "name": "fgw-regionsbank-dev-b-medium-4",
+      "status": "DISCONNECTED",
+      "replicas": [
+        {
+          "status": "CONNECTED",
+          "count": 0,
+          "certificateExpirationDates": []
+        },
+        {
+          "status": "DISCONNECTED",
+          "count": 0,
+          "certificateExpirationDates": []
+        }
+      ],
+      "tags": [],
+      "lastUpdate": "2024-10-14T23:41:57.85Z"
+    },
+    {
+      "organizationId": "9cbfeea6-3931-4b24-b763-135be8eff827",
+      "id": "c3b846ea-960d-42fb-9ddf-a05edaaae2d4",
+      "name": "fgw-regionsbank-dev-small-1",
+      "status": "CONNECTED",
+      "replicas": [
+        {
+          "status": "CONNECTED",
+          "count": 1,
+          "certificateExpirationDates": [
+            "2026-09-19T20:13:15.00Z"
+          ]
+        },
+        {
+          "status": "DISCONNECTED",
+          "count": 0,
+          "certificateExpirationDates": []
+        }
+      ],
+      "tags": [],
+      "lastUpdate": "2024-10-19T02:55:00.53Z"
+    }
+  ],
+  "totalElements": 16,
+  "pageNumber": 0,
+  "pageSize": 20
+}
